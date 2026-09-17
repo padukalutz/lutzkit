@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"lutzkit/internal/ui"
-	"lutzkit/internal/uninstall"
+	"github.com/padukalutz/lutzkit/internal/ui"
+	"github.com/padukalutz/lutzkit/internal/uninstall"
 )
 
 func uninstallProject() {

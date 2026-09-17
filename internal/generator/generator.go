@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"lutzkit/internal/template"
+	"github.com/padukalutz/lutzkit/internal/template"
 )
 
 type Project struct {

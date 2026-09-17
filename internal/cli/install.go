@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"lutzkit/internal/install"
-	"lutzkit/internal/ui"
+	"github.com/padukalutz/lutzkit/internal/install"
+	"github.com/padukalutz/lutzkit/internal/ui"
 )
 
 func installProject() {

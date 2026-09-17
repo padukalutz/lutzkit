@@ -5,10 +5,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"lutzkit/internal/config"
-	"lutzkit/internal/project"
-	"lutzkit/internal/prompt"
-	"lutzkit/internal/ui"
+	"github.com/padukalutz/lutzkit/internal/config"
+	"github.com/padukalutz/lutzkit/internal/project"
+	"github.com/padukalutz/lutzkit/internal/prompt"
+	"github.com/padukalutz/lutzkit/internal/ui"
 )
 
 func initProject() {

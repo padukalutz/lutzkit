@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"lutzkit/internal/ui"
+	"github.com/padukalutz/lutzkit/internal/ui"
 )
 
 func Input(question string) (string, error) {

@@ -6,7 +6,7 @@ import (
 
 	"golang.org/x/term"
 
-	"lutzkit/internal/ui"
+	"github.com/padukalutz/lutzkit/internal/ui"
 )
 
 const (

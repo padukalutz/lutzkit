@@ -3,8 +3,8 @@ package cli
 import (
 	"fmt"
 
-	"lutzkit/internal/ui"
-	"lutzkit/internal/version"
+	"github.com/padukalutz/lutzkit/internal/ui"
+	"github.com/padukalutz/lutzkit/internal/version"
 )
 
 func Run(args []string) {

@@ -3,8 +3,8 @@ package cli
 import (
 	"fmt"
 
-	"lutzkit/internal/doctor"
-	"lutzkit/internal/ui"
+	"github.com/padukalutz/lutzkit/internal/doctor"
+	"github.com/padukalutz/lutzkit/internal/ui"
 )
 
 func doctorCheck() {

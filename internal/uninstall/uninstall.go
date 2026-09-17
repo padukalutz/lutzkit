@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"lutzkit/internal/project"
+	"github.com/padukalutz/lutzkit/internal/project"
 )
 
 type Result struct {

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"lutzkit/internal/template"
-	"lutzkit/internal/ui"
+	"github.com/padukalutz/lutzkit/internal/template"
+	"github.com/padukalutz/lutzkit/internal/ui"
 )
 
 func searchTemplates(query string) {

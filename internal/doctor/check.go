@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"lutzkit/internal/template"
+	"github.com/padukalutz/lutzkit/internal/template"
 )
 
 type Status string

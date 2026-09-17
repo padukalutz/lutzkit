@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"os"
 
-	"lutzkit/internal/config"
-	"lutzkit/internal/ui"
-	"lutzkit/internal/version"
+	"github.com/padukalutz/lutzkit/internal/config"
+	"github.com/padukalutz/lutzkit/internal/ui"
+	"github.com/padukalutz/lutzkit/internal/version"
 )
 
 func updateProject() {

@@ -3,10 +3,10 @@ package cli
 import (
 	"fmt"
 
-	"lutzkit/internal/generator"
-	"lutzkit/internal/prompt"
-	"lutzkit/internal/template"
-	"lutzkit/internal/ui"
+	"github.com/padukalutz/lutzkit/internal/generator"
+	"github.com/padukalutz/lutzkit/internal/prompt"
+	"github.com/padukalutz/lutzkit/internal/template"
+	"github.com/padukalutz/lutzkit/internal/ui"
 )
 
 func newProject() {
